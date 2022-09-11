@@ -1,0 +1,259 @@
+html {
+  
+  font-size: 62.5%;
+
+  background-size: 100%;
+}
+body{
+  background-color:rgb(150, 141, 107) ;
+}
+
+* {
+  font-family:cursive;
+  margin: 0%;
+  padding: 0%;
+}
+
+#heading {
+  border: 1rem double gray;
+  border-radius: .2rem;
+  background-color: rgb(11, 28, 82);
+  padding: 1rem;
+  /* text-align: center; */
+}
+#head{
+  display: inline;
+  color: aqua;
+  margin: 0rem 0rem 0rem 1rem;
+  font-size: 3rem;
+  
+}
+#lmode{
+  display: inline;
+  position:relative;
+  margin: 0rem 1rem 0rem 80rem;
+}
+#dmode{
+  display: inline;
+  position:relative;
+  margin: 0rem 1rem 0rem 80rem;
+  display: none;
+}
+
+.links{
+  color: rgb(150, 141, 107);
+  display: inline;
+  font-size: 2rem ;
+  margin: 0rem 0rem 0rem 2rem;
+}
+.form{
+  align-items: center;
+   margin: 0rem 2rem 0rem 30rem;
+
+}
+#val{
+  
+  height: 25rem;
+  width: 60rem;
+  padding: 1rem;
+  border: .5rem double aqua;
+                                                    
+}
+#btn{
+  position: relative;
+  margin: 1rem 1rem 0rem 30rem;
+}
+i{
+  color: rgb(11, 28, 82); 
+  margin: 0rem 0rem 0rem 30rem;
+  font-size: 3rem;
+  
+}
+
+#captbtn{
+  margin: 0rem 0rem 0rem 30rem;
+ 
+}
+#smltbtn{
+  margin: 0rem 0rem 0rem 0rem;
+ 
+}
+
+#clearbtn{
+  margin: 1rem 1rem 1rem 1rem;
+  
+}
+#copybtn{
+  margin: 1rem 0rem 1rem 1rem;
+  
+}
+.btns{
+  padding: 1rem;
+  background-color: #282c34;
+  color: aqua;
+  border: .2rem solid aqua;
+  border-radius: 1rem;
+  margin-left: 1rem;
+}
+#sum{
+  
+  margin: 1rem 1rem 1rem 30rem;
+  font-size: 1.7rem;
+}
+
+#foot{
+  margin-top: 25rem;
+  position: relative;
+  border: 1rem double gray;
+  border-radius: .2rem;
+  background-color: rgb(11, 28, 82);
+  padding: 1rem;
+font-size: 1rem;
+  height: 3rem;
+  text-align: center;
+  color: aqua;
+}
+
+@media (max-width:200px) and (min-width:0px) {
+  html {
+      font-size: 8%
+  }
+}
+
+@media(max-width:250px) and (min-width:200px) {
+  html {
+      font-size: 10%;
+  }
+}
+
+@media(max-width:300px) and (min-width:250px) {
+  html {
+      font-size: 12%;
+  }
+}
+
+@media(max-width:350px) and (min-width:300px) {
+  html {
+      font-size: 14%;
+  }
+}
+
+@media (max-width:400px) and (min-width:350px) {
+  html {
+      font-size: 16%;
+  }
+}
+
+@media (max-width:450px) and (min-width:400px) {
+  html {
+      font-size: 20%;
+  }
+}
+
+@media (max-width:500px) and (min-width:450px) {
+  html {
+      font-size: 22%
+  }
+}
+
+@media (max-width:550px) and (min-width:500px) {
+  html {
+      font-size: 24%;
+  }
+}
+
+@media (max-width:600px) and (min-width:550px) {
+  html {
+      font-size: 26%
+  }
+}
+
+@media (max-width:650px) and (min-width:600px) {
+  html {
+      font-size: 28%
+  }
+}
+
+@media (max-width:700px) and (min-width:650px) {
+  html {
+      font-size: 30%
+  }
+}
+
+@media (max-width:750px) and (min-width:700px) {
+  html {
+      font-size: 33%
+  }
+}
+
+@media (max-width:800px) and (min-width:750px) {
+  html {
+      font-size: 36%
+  }
+}
+
+@media (max-width:850px) and (min-width:800px) {
+  html {
+      font-size: 39%
+  }
+}
+
+@media (max-width:900px) and (min-width:850px) {
+  html {
+      font-size: 42%
+  }
+}
+
+@media (max-width:950px) and (min-width:900px) {
+  html {
+      font-size: 45%
+  }
+}
+
+@media (max-width:1000px) and (min-width:950px) {
+  html {
+      font-size: 48%
+  }
+}
+
+@media (max-width:1050px) and (min-width:1000px) {
+  html {
+      font-size: 50%;
+  }
+}
+
+@media (max-width:1100px) and (min-width:1050px) {
+  html {
+      font-size: 52.5%;
+  }
+}
+
+@media (max-width:1150px) and (min-width:1100px) {
+  html {
+      font-size: 54.5%;
+  }
+}
+
+@media (max-width:1200px) and (min-width:1150px) {
+  html {
+      font-size: 56.5%;
+  }
+}
+
+@media (max-width:1250px) and (min-width:1200px) {
+  html {
+      font-size: 58.5%;
+  }
+}
+
+@media (max-width:1300px) and (min-width:1250px) {
+  html {
+      font-size: 62.5%;
+  }
+}
+
+@media (max-width:1350px) and (min-width:1300px) {
+  html {
+      font-size: 62.5%;
+  }
+}
